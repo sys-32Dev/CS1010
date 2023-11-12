@@ -1,8 +1,8 @@
 import tkinter
-helpme = tkinter.Tk()
+box = tkinter.Tk()
 
-helpme.geometry("300x300")
-helpme.configure(bg="orange")
-helpme.title("This is the title!")
+box.geometry("300x300")
+box.configure(bg="orange")
+box.title("This is the title!")
 
-helpme.mainloop()
+box.mainloop()
